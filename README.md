@@ -1,6 +1,5 @@
 # BiliBili Video Player 传入参数整理
 
-[TOC]
 
 #### 引言
 
@@ -9,6 +8,8 @@
 部分信息来自 [王陸 - 关于博客园内嵌入bilibili视频](https://www.cnblogs.com/wkfvawl/p/12268980.html)
 
 因官方未给出播放器参数的官方文档，为便于查阅，MonianHello 在此处整理了部分内容。
+
+[bilibili-API-collect](https://socialsisteryi.github.io/bilibili-API-collect/)
 
 如有补充可提交issue
 
@@ -68,7 +69,7 @@ aid为视频的av号，bvid为视频的BV号。
 
 在此建议使用page代替cid
 
-#####  ==[仅旧版本可用]== 最高画质的说明
+#####  仅旧版本可用 最高画质的说明
 
 如视频有 360p 720p 1080p 三种
 
